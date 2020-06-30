@@ -15,4 +15,4 @@ for i in range(driver_count):
 driver_list.sort()
 
 # print driver list (comma separated list)
-print(" ,".join(driver_list))
+print(", ".join(driver_list))
